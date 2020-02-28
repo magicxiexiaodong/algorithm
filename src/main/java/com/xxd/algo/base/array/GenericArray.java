@@ -1,4 +1,4 @@
-package com.xxd.algo.array;
+package com.xxd.algo.base.array;
 
 /**
  * @Author: XiaoDong.Xie
